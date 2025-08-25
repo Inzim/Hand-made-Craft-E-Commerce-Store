@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRAFTOPIA", "Movie_Theator\CRAFTOPIA.csproj", "{72C6AD21-9774-4C27-AB42-8570CEC71F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C6AD21-9774-4C27-AB42-8570CEC71F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C6AD21-9774-4C27-AB42-8570CEC71F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C6AD21-9774-4C27-AB42-8570CEC71F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C6AD21-9774-4C27-AB42-8570CEC71F03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A932115-D3BA-4550-88A5-354F5833D6FD}
+	EndGlobalSection
+EndGlobal
